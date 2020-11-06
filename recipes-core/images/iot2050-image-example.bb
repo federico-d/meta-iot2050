@@ -40,8 +40,6 @@ IOT2050_DEBIAN_DEBUG_PACKAGES = " \
     resolvconf \
     gdb \
     gdbserver \
-    network-manager \
-    modemmanager \
     ppp \
     isc-dhcp-client \
     cmake \
