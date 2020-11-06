@@ -50,10 +50,6 @@ IOT2050_DEBIAN_DEBUG_PACKAGES = " \
     autoconf \
     autotools-dev \
     default-jdk \
-    mosquitto \
-    mosquitto-clients \
-    nodejs \
-    npm \
     teamd \
     rsyslog \
     net-tools \
@@ -89,19 +85,9 @@ IMAGE_INSTALL += " \
     expand-on-first-boot \
     sshd-regen-keys \
     regen-rootfs-uuid \
-    customizations-example \
     switchserialmode \
     iot2050setup \
     iot2050-firmware-update \
     tcf-agent \
     mraa \
-    node-red \
-    node-red-gpio \
-    node-red-dashboard \
-    node-red-contrib-opcua \
-    node-red-contrib-modbus \
-    node-red-contrib-s7 \
-    mindconnect-node-red-contrib-mindconnect \
-    node-red-node-serialport \
-    node-red-node-sqlite \
     "
