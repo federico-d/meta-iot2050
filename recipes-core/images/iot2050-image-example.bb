@@ -33,13 +33,11 @@ IOT2050_DEBIAN_DEBUG_PACKAGES = " \
     rt-tests \
     stress-ng \
     build-essential \
-    python3 \
     gawk \
     curl \
     wget \
     ca-certificates \
     resolvconf \
-    python3-newt \
     gdb \
     gdbserver \
     network-manager \
@@ -49,12 +47,11 @@ IOT2050_DEBIAN_DEBUG_PACKAGES = " \
     cmake \
     autoconf \
     autotools-dev \
-    default-jdk \
-    teamd \
     rsyslog \
     net-tools \
     i2c-tools \
     sudo \
+    docker.io \
     "
 
 # wifi support
